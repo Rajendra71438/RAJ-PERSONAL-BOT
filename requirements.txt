@@ -1,0 +1,6 @@
+flask
+flask_cors
+telethon
+python-dotenv
+bcrypt
+qrcode[pil]
